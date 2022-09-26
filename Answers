@@ -10,6 +10,6 @@ temp=temp->next;
 }
 Answer 2
 * Opening recently closed tabs using cmd + shift + T in chrome
-* To keep track of the turn in a multiplayer game. When all players turn are over in a set , the person wks in a football ks ho starts is highlighted to take his turn .
-Eg. Playing Ludo
+* To keep track of the turn in a multiplayer game. When all players turn are over in a set , the person who starts is highlighted to take his turn.
+Eg. Playing online Ludo
 * To loop songs in a playlist .
