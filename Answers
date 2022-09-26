@@ -1,0 +1,15 @@
+Answer 1
+* First we Initialise a temporary pointer variable temp equal to the element next to head pointer.
+* Then the temp pointer is made to trace to travel on the linked list using a while loop.
+* The condition establishing that the traversing element/variable has reached the first element is temp!=head. This condition tells us that we have reached starting element, i.e.head and that we need to stop traversing when we satisfy this condition. When temp pointer comes out of the while loop, then the temp pointer has reached the first element
+* Here we cannot compare the data as the linked list may contain different elements with same data
+* The complete bit of code for this condition is:
+* Node*temp=head->next; 
+while(temp!=head){
+temp=temp->next; 
+}
+Answer 2
+* Opening recently closed tabs using cmd + shift + T in chrome
+* To keep track of the turn in a multiplayer game. When all players turn are over in a set , the person wks in a football ks ho starts is highlighted to take his turn .
+Eg. Playing Ludo
+* To loop songs in a playlist .
